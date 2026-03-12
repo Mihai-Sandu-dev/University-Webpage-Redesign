@@ -1,0 +1,10 @@
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20ULBS.pdf">Raport agregat ULBS</a> </li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20DRE!.pdf">Facultatea de Drept</a> </li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20ING!.pdf">Facultatea de Inginerie</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20LIA!.pdf">Facultatea de Litere</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20MED!.pdf">Facultatea de Medicină</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20STI!.pdf">Facultatea de Științe</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20SAI!.pdf">Facultatea de ȘAIAPM</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20FSE!.pdf">Facultatea de Științe Economice</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20SSU!.pdf">Facultatea de Științe Socio-Umane</a></li>
+<li><a href="http://calitate.ulbsibiu.ro/eval/Rapoarte/2020-2021-1/Raport%20TEO!.pdf">Facultatea de teologie</a></li>
